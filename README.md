@@ -4,4 +4,4 @@
 
 **LGMVIP-Python-Task-2 : SNAKE GAME**
 
-**LGMVIP-Python-Task-3 : ROCK_PAPER_SCISSOR**
+**LGMVIP-Python-Task-3 : ROCK_PAPER_SCISSORS GAME**
