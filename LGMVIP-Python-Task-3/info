@@ -1,0 +1,8 @@
+In this project, you will be going to program a very fun python game. 
+The goal of the rock-paper-scissor python project is to create a game that can be played from any computer, anywhere, and at any time.
+It is possible to indicate the move with a single alphabet or by entering an entire string
+
+We will use the Tkinter and random module of Python to implement this python rock paper scissors game.
+
+Tkinter is a standard GUI library that creates GUI apps easily.
+The random module is used to generate random numbers.
